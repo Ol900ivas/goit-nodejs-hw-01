@@ -2,18 +2,22 @@
 
 Результати виконання команд:
 
-## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+## Результати виконання команд:
 
-![list](https://monosnap.com/file/V9baJoWGmGtuMuPkKkjo7zZRsLxpCs)
+Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-## Отримуємо контакт по id
+![list](img src="https://monosnap.com/file/V9baJoWGmGtuMuPkKkjo7zZRsLxpCs")
+
+Отримуємо контакт по id
 
 ![get](https://monosnap.com/file/NVLtQvSTcJeJBezGLi3b1w73eway2o)
 
-## Додаємо контакт
+Додаємо контакт
 
 ![add](https://monosnap.com/file/YxvepWZ0FY5ygLC0jJ2U4O9A4qDR1q)
 
-## Видаляємо контакт
+Видаляємо контакт
 
 ![remove](https://monosnap.com/file/eBmVS3faVdnEmP68PeK2xxZmODBCTU)
+
+https://monosnap.com/file/NVLtQvSTcJeJBezGLi3b1w73eway2o
