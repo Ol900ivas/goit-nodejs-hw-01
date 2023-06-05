@@ -6,18 +6,16 @@
 
 Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-<img src = "https://monosnap.com/file/9baJoWGmGtuMuPkKkjo7zZRsLxpCs" alt = "list"/>
+<img src = "https://i.ibb.co/CKPcvtv/goit-nodejs-hw-01-img01.png" alt = "list"/>
 
 Отримуємо контакт по id
 
-![get](https://monosnap.com/file/NVLtQvSTcJeJBezGLi3b1w73eway2o)
+<img src="https://i.ibb.co/dKJX5dD/goit-nodejs-hw-01-img02.png" alt="get">
 
 Додаємо контакт
 
-![add](https://monosnap.com/file/YxvepWZ0FY5ygLC0jJ2U4O9A4qDR1q)
+<img src="https://i.ibb.co/W2vCbDP/goit-nodejs-hw-01-img03.png" alt="add">
 
 Видаляємо контакт
 
-![remove](https://monosnap.com/file/eBmVS3faVdnEmP68PeK2xxZmODBCTU)
-
-https://monosnap.com/file/NVLtQvSTcJeJBezGLi3b1w73eway2o
+<img src="https://i.ibb.co/wcxywqK/goit-nodejs-hw-01-img04.png" alt="remove">
